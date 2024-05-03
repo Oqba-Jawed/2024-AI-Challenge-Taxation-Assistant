@@ -1,0 +1,17 @@
+flask
+flask-cors
+python-dotenv
+pypdf2
+pydantic
+pandas
+langchain==0.0.345
+faiss-cpu==1.7.4
+openai==0.28.0
+huggingface_hub
+sentence_transformers
+semantic-split==0.1.0
+tiktoken
+cohere
+spacy==3.7.2
+markdown2
+markdown
